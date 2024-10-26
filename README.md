@@ -28,13 +28,13 @@
 
 ## Projects
 ### Predicting Concrete Compressive Strength with Machine Learning Models
-[GitHub Repository](https://www.mdpi.com/1424-8220/22/8/3048)
+[GitHub Repository](https://github.com/jacob1713/Spotify_Dashboard)
 
 Performed Exploratory Data Analysis (EDA) on a dataset containing 8 concrete ingredients and their corresponding compressive strength outcomes. Built and evaluated multiple machine learning models, including Linear Regression, Decision Tree, Pruned Decision Tree, Random Forest, Gradient Boosting, and Support Vector Machine (SVM), to predict concrete strength. The project compared model performance to determine the most effective approach, providing insights into ingredient contributions and identifying the model with optimal predictive accuracy for real-world applications in construction and material design.
 
 
 ### Interactive Dashboard for Exploring Spotify’s Most Streamed Songs (Proof-of-Concept)
-[GitHub Repository](https://www.mdpi.com/1424-8220/22/11/4240)
+[GitHub Repository](https://github.com/jacob1713/Predicting_Compressive_Strength_of_Concrete)
 
 Developed an interactive dashboard using the Streamlit Python library to explore the most streamed Spotify songs of all time. The dashboard features filters for release date and artists, allowing users to dynamically explore the dataset. It provides key statistics such as total streams and song counts, displays the data in table format, and offers visualizations of musical attributes like acoutincness, energy, danceability and tempo. This tool enables music enthusiasts and analysts to uncover trends in streaming behavior and gain deeper insights into popular music characteristics.
 
