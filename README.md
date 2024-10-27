@@ -11,7 +11,7 @@
 
 ## Education				       		
 - M.S., Data Science	| The University of Colorado at Boulder (_May 2025_)	 			        		
-- B.S., Radio-Television-Film | The University of Texas at Austin (_May 2021_) | Summa Cum Laude, University Honors, Distinguished College Scholar
+- B.S., Radio-Television-Film | The University of Texas at Austin (_May 2021_)
   
 
 ## Work Experience
