@@ -5,12 +5,12 @@
 
 **Data Analysis & Statistical Techniques**: Linear and Logistic Regression, Hypothesis Testing, Time Series Analysis 
 
-**Machine Learning & Predictive Modeling**: SVMs, Decision Trees, Random Forests, Boosting (CatBoost, XGBoost) k-Nearest Neighbors (k-NN)
+**Machine Learning & Predictive Modeling**: SVMs, Decision Trees, Random Forests, Boosting (CatBoost, XGBoost), k-Nearest Neighbors (k-NN)
 
 **Visualization and Dashboarding**: Tableau, Power BI, ggplot2, Matplotlib, Seaborn, Altair, Plotly, Streamlit
 
 ## Education				       		
-- M.S., Data Science	| The University of Colorado at Boulder (_May 2025_)	 			        		
+- M.S., Data Science	| The University of Colorado at Boulder (_Expected May 2025_)	 			        		
 - B.S., Radio-Television-Film | The University of Texas at Austin (_May 2021_)
   
 
@@ -36,5 +36,5 @@ Performed Exploratory Data Analysis (EDA) on a dataset containing 8 concrete ing
 ### Interactive Dashboard for Exploring Spotify’s Most Streamed Songs (Proof-of-Concept)
 [GitHub Repository](https://github.com/jacob1713/Predicting_Compressive_Strength_of_Concrete)
 
-Developed an interactive dashboard using the Streamlit Python library to explore the most streamed Spotify songs of all time. The dashboard features filters for release date and artists, allowing users to dynamically explore the dataset. It provides key statistics such as total streams and song counts, displays the data in table format, and offers visualizations of musical attributes like acoutincness, energy, danceability and tempo. This tool enables music enthusiasts and analysts to uncover trends in streaming behavior and gain deeper insights into popular music characteristics.
+Developed an interactive dashboard using the Streamlit Python library to explore the most streamed Spotify songs of all time. The dashboard features filters for release date and artists, allowing users to dynamically explore the dataset. It provides key statistics such as total streams and song counts, displays the data in table format, and offers visualizations of musical attributes like acoustincness, energy, danceability and tempo. This tool enables music enthusiasts and analysts to uncover trends in streaming behavior and gain deeper insights into popular music characteristics.
 
