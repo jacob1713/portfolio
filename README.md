@@ -10,8 +10,8 @@
 **Visualization and Dashboarding**: Tableau, Power BI, ggplot2, Matplotlib, Seaborn, Altair, Plotly, Streamlit
 
 ## Education				       		
-- M.S., Data Science	| The University of Colorado at Boulder (_Expected May 2025_)	 			        		
-- B.S., Radio-Television-Film | The University of Texas at Austin (_May 2021_)
+- M.S., Data Science - The University of Colorado at Boulder (_Expected May 2025_)	 			        		
+- B.S., Radio-Television-Film - The University of Texas at Austin (_May 2021_)
   
 
 ## Work Experience
