@@ -3,9 +3,9 @@
 ## Technical Skills: 
 **Programming Languages**: Python, SQL, R, VBA
 
-**Data Analysis & Statistical Techniques**: Linear and Logistic Regression, Hypothesis Testing, Time Series Analysis 
+**Data Analysis & Statistical Techniques**: Linear and Logistic Regression, Non-Parametric Regression, Generalized Additive Models (GAMs), Hypothesis Testing, Time Series Analysis 
 
-**Machine Learning & Predictive Modeling**: SVMs, Decision Trees, Random Forests, Boosting (CatBoost, XGBoost), k-Nearest Neighbors (k-NN)
+**Machine Learning & Predictive Modeling**: SVMs, Decision Trees, Random Forests, Boosting (CatBoost, XGBoost), k-Nearest Neighbors (k-NN), k-Means Clustering, Agglomerative Clustering
 
 **Visualization and Dashboarding**: Tableau, Power BI, ggplot2, Matplotlib, Seaborn, Altair, Plotly, Streamlit
 
@@ -17,7 +17,7 @@
 ## Work Experience
 **Data Analyst @ Fortigo Inc. (_December 2022 - March 2024_)**
 - Developed Python and VBA workflows, reducing report generation time by 70% and increasing data accuracy
-- Engineered custom Python scripts to streamline data ingestion, transformation, and analysis for large datasets
+- Engineered custom Python scripts to efficiently process large datasets, optimizing ETL pipelines for data ingestion, transformation and analysis
 - Built and maintained interactive dashboards for KPI tracking across support channels, enabling real-time decision-making and performance monitoring
 - Presented detailed analyses and insights to key stakeholders, including Fortune 500 executives, driving data-informed decisions
 
